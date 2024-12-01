@@ -11,4 +11,5 @@
 
 ##### Strategic Recommendations: Proposed actionable solutions, such as focusing on suburban markets and improving in-store experiences to boost revenue
 <br>
+
 #### Author- Krish Garg
