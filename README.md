@@ -10,5 +10,5 @@
 ##### Sales Channels Optimization: Discovered a balanced online-to-offline customer ratio, providing insights for enhancing both channels.
 
 ##### Strategic Recommendations: Proposed actionable solutions, such as focusing on suburban markets and improving in-store experiences to boost revenue
-
+<br>
 #### Author- Krish Garg
