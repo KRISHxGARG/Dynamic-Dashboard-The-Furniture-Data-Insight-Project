@@ -21,11 +21,6 @@
 - **Sales Channel Optimization**: 
   - Improve the **in-store shopping experience** and **expand retail outlets** as physical store sales contribute significantly to total revenue.
 
-## 🛠️ Technologies Used
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Power BI / Tableau** (for dashboard visualization)
-- **Jupyter Notebook** (for data analysis and visualization)
-
 ## 📢 Contributors
 - **Teesha**
 - **Ankit**
@@ -36,5 +31,5 @@
 ## 📞 Contact
 For questions or collaboration, reach out to:
 
-Name: Krish Garg
-Email: krishgarg665@gmail.com
+-Name: Krish Garg
+-Email: krishgarg665@gmail.com
