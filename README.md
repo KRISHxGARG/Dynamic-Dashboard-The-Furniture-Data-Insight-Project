@@ -21,13 +21,6 @@
 - **Sales Channel Optimization**: 
   - Improve the **in-store shopping experience** and **expand retail outlets** as physical store sales contribute significantly to total revenue.
 
-## 📢 Contributors
-- **Teesha**
-- **Ankit**
-- **Krish**
-- **Shubham**
-
-
 ## 📞 Contact
 For questions or collaboration, reach out to:
 
