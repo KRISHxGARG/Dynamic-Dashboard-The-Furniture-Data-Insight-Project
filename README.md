@@ -31,6 +31,6 @@
 ## 📞 Contact
 For questions or collaboration, reach out to:
 
--Name: Krish Garg
+-**Name**: Krish Garg
 <br>
--Email: krishgarg665@gmail.com
+-**Email**: krishgarg665@gmail.com
